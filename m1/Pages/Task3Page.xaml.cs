@@ -12,6 +12,9 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
+//изменение
+
 namespace m1.Pages
 {
     public partial class Task3Page : Page
